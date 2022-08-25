@@ -1,0 +1,19 @@
+[
+	{
+		"name": "The Ultimate Nuke",
+		"unitType": "Atomic Bomber",
+		"uniqueTo": "The Nation of Nuke",
+		"movement": 99,
+		"strength": 1000,
+		"rangedStrength": 1000,
+		"range": 1000,
+		"cost": 1,
+		"sight":100
+\\		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [2]",
+		"Blast radius [2]","Can move immediately once bought","[+100] Sight"
+		"[100] additional attacks per turn","Unbuildable"],
+		"attackSound": "nuke"
+	},
+]

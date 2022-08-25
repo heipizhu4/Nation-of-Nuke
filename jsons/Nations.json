@@ -1,0 +1,28 @@
+[
+	{
+		"name": "The Nation of Nuke",
+		"leaderName": "Nuker",
+		"adjective": ["Nuke"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Have you always enjoyed standing in the middle of the world and nuking everyone?",
+		"startIntroPart2": "Well, you come to the right place... \n\n (Author's words: Enabling the customized map and put more civs on the map for a better nuking experience!",					
+		
+		"declaringWar": "Taste the feeling of Nuke, HAHA.",
+		"attacked": "You'll regret your choice, remember..",
+		"defeated": "How is this possible?",
+		"introduction": "I know you people can't find me, but you'll be nuked soon.",
+
+		"neutralHello": "There is still work to be done.",		
+		"hateHello": "You're on my list of the nuking, so be careful~",	
+
+		"afterPeace": "Money for safety? Good choice.",
+		"tradeRequest": "I have something for you.",
+
+		"outerColor": [255, 204, 0],
+		"innerColor": [0,0,0],
+		"uniqueName": "The Nuke",
+		"uniques": [],
+		"cities": [The Nuke Orign]
+	}
+]
