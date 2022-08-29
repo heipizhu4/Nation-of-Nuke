@@ -7,11 +7,13 @@
 		"gold": 1000,
 		"science": 1000,
 		"culture": 1000
-		"production": 10
+		"production": 1000
 		"defenceBonus": 10,
 		"RGB": [148, 0, 211],
-		"uniques": ["Rough terrain",
-					"Has an elevation of [6] for visibility calculations",
-					"Considered [desirable] when determining start locations"]
+		"uniques": ["Rough terrain",	
+		"Has an elevation of [6] for visibility calculations",
+		"Considered [desirable] when determining start locations"
+		"Doesn't generate naturally"
+		"[999] Strength for cities built on this terrain"]
 	},
 ]
