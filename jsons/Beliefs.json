@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Unamed",
+        "type": "Pantheon",
+        "uniques": ["[+100 Faith] <in the capital>""A free [Great Prophet] appears"
+    },
+    ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+    {
+        "name": "Desire for power",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+\\Should possibly be like, more nuke power?
+    },
+///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+    {
+        "name": "Unamed2",
+        "type": "Founder",
+        "uniques": ["[+3 Happiness] for each global city following this religion"]
+    },
+    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
+    {
+        "name": "Fear from Nuke",
+        "type": "Enhancer",
+        "uniques": ["[+1000]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+20] tiles away"]
+    },
+]
