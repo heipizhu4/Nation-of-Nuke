@@ -1,0 +1,19 @@
+[
+    {
+        "name": "★Speed of Nuke",
+        "type": "Pantheon",
+        "uniques": ["[+1000 Faith]"]
+    },
+    ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+    {
+        "name": "★Desire for power",
+        "type": "Follower",
+        "uniques": ["[+100 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+	//Should possibly be like, more nuke power?
+    },
+///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+    {
+        "name": "★Fear of Nuke",
+        "type": "Enhancer",
+        "uniques": ["[+1000]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+100] tiles away"]
+    },

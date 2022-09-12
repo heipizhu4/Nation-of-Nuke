@@ -4,6 +4,13 @@ size: 256, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+ReligionIcons/Nuklism
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/The Nation of Nuke
   rotate: false
   xy: 4, 4
