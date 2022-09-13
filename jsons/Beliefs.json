@@ -14,6 +14,7 @@
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
     {
         "name": "★Fear of Nuke",
-        "type": "Enhancer",
+        "type": "Founder",
         "uniques": ["[+1000]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+100] tiles away"]
     },
+]
