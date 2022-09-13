@@ -1,40 +1,47 @@
 
 game.png
-size: 256, 128
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ReligionIcons/Nuklism
   rotate: false
-  xy: 4, 4
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Nation of Nuke
   rotate: false
-  xy: 4, 4
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Centre of World
   rotate: false
-  xy: 220, 76
+  xy: 328, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Centre of World
   rotate: false
-  xy: 220, 76
+  xy: 328, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+UnitIcons/City Annexer
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/The Ultimate Nuke
   rotate: false
-  xy: 112, 4
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

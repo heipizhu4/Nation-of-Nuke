@@ -23,5 +23,6 @@
 		"strength": 1000,
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [500] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
-		"attackSound": "nuke"	
+		"attackSound": "nuke"
+	}	
 ]
