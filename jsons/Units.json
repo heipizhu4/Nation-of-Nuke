@@ -6,7 +6,7 @@
 		"movement": 99,
 		"strength": 1000,
 		"rangedStrength": 1000,
-		"range": 1000,
+		"range": 50,
 		"cost": 1,
 		"sight":100
 \\		"requiredResource": "Uranium",
