@@ -8,7 +8,7 @@
 		"rangedStrength": 1000,
 		"range": 50,
 		"cost": 1,
-		"sight":100
+		"sight":50
 \\		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [2]",
