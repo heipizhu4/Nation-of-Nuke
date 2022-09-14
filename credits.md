@@ -1,2 +1,3 @@
 -   [Radiation symbol](https://thenounproject.com/term/radiation-symbol/211059/) By icon 54 for the nation icon
--   -   [Lightning](https://thenounproject.com/search/?q=lightning&i=1187991) By Mooms for The Ultimate Nuke
+-   [Lightning](https://thenounproject.com/search/?q=lightning&i=1187991) By Mooms for The Ultimate Nuke
+-   Mixing [Parachute](https://thenounproject.com/browse/icons/term/parachute/) by Nociconist and [Radiation symbol](https://thenounproject.com/term/radiation-symbol/211059/) By icon 54 for the city annexer.

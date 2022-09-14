@@ -16,4 +16,16 @@
 		"[100] additional attacks per turn","Unbuildable"],
 		"attackSound": "nuke"
 	},
+	{
+		"name": "City Annexer",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Nation of Nuke",
+		"movement": 100,
+		"strength": 1000,
+		"cost": 1,
+		"hurryCostModifier" : -100
+\\		"requiredTech": "Radar",
+		"uniques": ["May Paradrop up to [100] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can move after attacking","Unbuildable","[10] additional attacks per turn"],
+		"attackSound": "nuke"
+	}	
 ]
