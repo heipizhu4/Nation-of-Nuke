@@ -12,7 +12,8 @@
 \\		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [2]",
-		"Blast radius [2]","Can move immediately once bought","[+80] Sight"
+		"Can be purchased with [Gold] [in all cities]",
+		"Blast radius [2]","Can move immediately once bought","[+80] Sight",
 		"[100] additional attacks per turn","Unbuildable"],
 		"attackSound": "nuke"
 	},
@@ -25,7 +26,8 @@
 		"cost": 1,
 		"hurryCostModifier" : -100
 \\		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [100] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can move after attacking","Unbuildable","[10] additional attacks per turn"],
+		"uniques": ["May Paradrop up to [100] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can move after attacking","Unbuildable",
+		"Can be purchased with [Gold] [in all cities]","[10] additional attacks per turn"],
 		"attackSound": "nuke"
 	}	
 ]
