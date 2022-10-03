@@ -14,7 +14,7 @@
 		"uniques": ["Nuclear weapon of Strength [2]",
 		"Can be purchased with [Gold] [in all cities]",
 		"Blast radius [2]","Can move immediately once bought","[+80] Sight",
-		"[100] additional attacks per turn","Unbuildable","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]"],
+		"[100] additional attacks per turn","Unbuildable","Can be purchased if more are needed"],
 		"attackSound": "nuke"
 	},
 	{
@@ -27,7 +27,7 @@
 		"hurryCostModifier" : -100
 \\		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [100] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can move after attacking","Unbuildable",
-		"Can be purchased with [Gold] [in all cities]","[10] additional attacks per turn","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]"],
+		"Can be purchased with [Gold] [in all cities]","[10] additional attacks per turn", "Can be purchased if more are needed","Can undertake a trade mission with City-State, giving a large sum of gold and [1000] Influence"],
 		"attackSound": "nuke"
 	}	
 ]
