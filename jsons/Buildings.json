@@ -4,6 +4,10 @@
 		"isNationalWonder": true,
 		"uniqueTo": "The Nation of Nuke",
 		"cost": 1,
-		"uniques": ["Enables nuclear weapon","Unsellable","Free [The Ultimate Nuke] appears","Free [City Annexer] appears","Free [Great Prophet] appears"]
+		"uniques": ["Enables nuclear weapon","Unsellable","Free [The Ultimate Nuke] appears","Free [City Annexer] appears","Free [Great Prophet] appears",
+                            "May buy [Great Prophet] units for [1] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([1])",	
+                            "May buy [The Ultimate Nuke] units for [1] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([1])",	
+                            "May buy [City Annexer] units for [1] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([1])",	
+                            ]
 	},
 ]
