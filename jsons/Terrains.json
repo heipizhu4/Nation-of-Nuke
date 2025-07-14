@@ -12,8 +12,8 @@
 		"RGB": [148, 0, 211],
 		"uniques": ["Rough terrain",	
 		"Has an elevation of [6] for visibility calculations",
-		"Considered [desirable] when determining start locations"
-		"Doesn't generate naturally"
+		"Considered [Desirable] when determining start locations",
+		"Doesn't generate naturally",
 		"[999] Strength for cities built on this terrain"]
 	},
 ]
